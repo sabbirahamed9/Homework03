@@ -1,0 +1,54 @@
+h1{
+	color:lightpink;
+	text-align: center;
+	font-size: 90px;
+}
+ h2{
+ 	color:brown; 
+ 	text-align: center;
+
+ }
+ h3{
+ 	color:chocolate;
+ 	text-align: center;
+ 	font-size: 30px;
+ }
+
+.fc { 
+  
+  color: white;
+ text-align: center;
+ font-size: 30px;
+ }
+
+.fe{
+ color: black;
+ text-align: center;
+ font-size: 30px;
+}
+
+ .video{
+ 	text-align: center;
+ }
+
+.container{
+	margin: 100px  200px;
+	width: 90%;
+	height: 450px;
+	display:flex;
+	justify-content: center;
+	gap: 7px;
+}
+.container img {
+	 width: 20%;
+	 height: 130%;
+	 object-fit: cover;
+	 border-radius: 10px;
+	 border: 3px solid;
+}
+
+
+.footer {
+	text-align: center;
+	color: white;
+}
